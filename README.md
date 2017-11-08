@@ -3,11 +3,14 @@ ARDUINO PRO MINI BLE
 
 WORK IN PROGRESS
 
-3.3V
-8MHz
-ATMEGA328P
-JDY-08 Bluetooth LE
+Bluetooth LE temperature sense node
 
-Derived from the Arduino Pro Mini board, with BLE added, connectors removed for space and routing reasons. Needs renaming now its no longer pro mini esc.
+* 3V Operation
+* 8MHz
+* ATMEGA328P
+* JDY-08 Bluetooth LE
+* For use with NON-rechargable batteries. 
+
+Derived from the Arduino Pro Mini board 3.3v 8MHz version, with BLE added, connectors removed for space and routing reasons. Needs renaming now its no longer pro mini like.
 
 Open Source Hardware. 
