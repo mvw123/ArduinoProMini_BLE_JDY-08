@@ -10152,8 +10152,8 @@ Source: http://onsemi.com .. MBR0520LT1-D.pdf</description>
 <part name="+3V10" library="supply1" deviceset="+3V3" device=""/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_04" device=""/>
 <part name="GND13" library="SparkFun" deviceset="GND" device=""/>
-<part name="R4" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="TBD"/>
-<part name="R5" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="TBD"/>
+<part name="R4" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="200k 1%"/>
+<part name="R5" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="100k 1%"/>
 <part name="GND14" library="SparkFun" deviceset="GND" device=""/>
 <part name="C6" library="SparkFun" deviceset="CAP" device="0603-CAP" value="1nF"/>
 <part name="GND15" library="SparkFun" deviceset="GND" device=""/>
