@@ -10164,7 +10164,7 @@ Source: http://onsemi.com .. MBR0520LT1-D.pdf</description>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-A4L" device=""/>
 <part name="JP3" library="BC9VPC_ShortenedSilkScreen" deviceset="M04" device="PTH"/>
 <part name="D1" library="diode" deviceset="MBR0520LT" device=""/>
-<part name="R7" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="2k"/>
+<part name="R7" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="100k"/>
 <part name="GND6" library="SparkFun" deviceset="GND" device=""/>
 <part name="LOGO1" library="ohw-logo" deviceset="OSHW_LOGO_FILL" device="X0200-NT"/>
 <part name="FID1" library="adafruit" deviceset="FIDUCIAL" device=""/>
