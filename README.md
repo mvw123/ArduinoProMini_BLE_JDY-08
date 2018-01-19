@@ -1,6 +1,16 @@
 ARDUINO BLE JDY-08 Sensor Node
 ==============================
 
+Bluetooth temperature sensor node using the JDY-08 bluetooth module which connects to a hub to transfer data onto the internet.
+
+CAD B
+=====
+NOT RELEASED
+
+* Adding location for +/-0.1Deg C temperature sensor which requires a regulator to be fitted to achieve +/-0.1C. 
+* G-NICO-018 (TSYS01) footprint and symbol are from snap EDA
+
+
 CAD A
 =====
 WORK IN PROGRESS - This board is not tested in any way shape or form. 
