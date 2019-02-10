@@ -9967,6 +9967,7 @@ EBAY SHT31, BME280
 SOME ADAFRUIT</text>
 <text x="162.56" y="35.56" size="1.778" layer="91">6-9, 12-14 NC</text>
 <text x="162.56" y="33.02" size="1.778" layer="91">ROUTE AROUND FOR THERMAL BARRIER</text>
+<text x="-17.78" y="38.1" size="1.778" layer="91">FET NOT TURNING ON FULLY CHANGE TO ANOTHER PART!</text>
 </plain>
 <instances>
 <instance part="C10" gate="G$1" x="81.28" y="152.4">

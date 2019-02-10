@@ -10226,7 +10226,10 @@ TTL ADAPTER</text>
 <attribute name="VALUE" x="143.002" y="121.412" size="1.778" layer="96"/>
 </instance>
 <instance part="U3" gate="G$1" x="109.22" y="43.18"/>
-<instance part="S2" gate="G$1" x="127" y="147.32" rot="R90"/>
+<instance part="S2" gate="G$1" x="127" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="124.46" y="144.78" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="129.54" y="144.78" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
 <instance part="F1" gate="G$1" x="38.1" y="160.02"/>
 <instance part="SUPPLY1" gate="G$1" x="30.48" y="167.64"/>
 <instance part="SUPPLY2" gate="G$1" x="2.54" y="154.94"/>
